@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+
+    <string name="saved_passwords">Saved Passwords</string>
+    <string name="search_site">Search by site name...</string>
+    <string name="add_entry">+ Add Entry</string>
+    <string name="add_edit_title">Add / Edit Entry</string>
+    <string name="hint_site">Site name</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="save">Save</string>
+</resources>
